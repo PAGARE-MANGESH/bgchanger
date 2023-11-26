@@ -30,6 +30,10 @@ body{
   color: #000;
 }
 
+*{
+    padding: 0px;
+}
+
 #insert{
    color: black;
 }
