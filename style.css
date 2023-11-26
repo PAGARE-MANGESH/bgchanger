@@ -1,0 +1,40 @@
+/* body {
+  margin: 0px;
+  padding: 0px;
+  color: antiquewhite;
+  background: #000;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+
+#start {
+  width: 150px;
+  height: 50px;
+  justify-content: center;
+
+  margin-top: 100px;
+}
+
+#stop {
+  width: 150px;
+  height: 50px;
+  justify-content: center;
+ 
+  margin-top: 100px;
+  float:center;
+} */
+
+
+body{
+  color: #000;
+}
+
+#insert{
+   color: black;
+}
+
+.color{
+  border: solid 2px black;
+   color: #000;
+}
